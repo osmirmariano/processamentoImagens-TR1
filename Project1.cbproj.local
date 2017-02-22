@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/21 22:45:55.000.739,=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/02/21 22:45:55.000.677,=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/02/21 22:46:26.000.098,C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\GitHub\processamentoImagens-TR1\vizinhanca.dfm</Transaction>
+    <Transaction>2017/02/21 22:46:26.000.098,C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h=D:\GitHub\processamentoImagens-TR1\vizinhanca.h</Transaction>
+    <Transaction>2017/02/21 22:46:26.000.098,C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=D:\GitHub\processamentoImagens-TR1\vizinhanca.cpp</Transaction>
+    <Transaction>2017/02/21 22:46:28.000.487,C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=D:\GitHub\processamentoImagens-TR1\Project1PCH1.h</Transaction>
+    <Transaction>2017/02/21 22:46:31.000.013,C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=D:\GitHub\processamentoImagens-TR1\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
