@@ -31,7 +31,7 @@ void __fastcall TForm1::SpeedButton1Click(TObject *Sender)
 	ComboBox1->Enabled = true;
 	ComboBox2->Enabled = true;
 	Label2->Enabled = true;
-	Label3->Enabled = true;
+	Label3->Enabled = true;//
 }
 //---------------------------------------------------------------------------
 
